@@ -8,15 +8,3 @@
     "restartPolicyType": "ON_FAILURE"
   }
 }
-```
-
-4. Click **Commit new file**
-
----
-
-## Your repo should now look like this
-```
-niyamsetu-backend/
-├── package.json
-├── server.js
-└── railway.json
